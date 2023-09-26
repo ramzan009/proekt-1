@@ -297,7 +297,7 @@ body {
 
 .jover {
     border: 1px solid #E2E2E2;
-    margin: 0px 0px 44px;
+    margin: 0px 0px 30px;
 
 }
 
@@ -338,6 +338,23 @@ body {
     border-radius: 50%;
 }
 
+
+
+
+
+.uterb{
+    display: flex;
+ 
+}
+
+
+
+
+
+.djamilat{
+    width: 70px;
+    height: 70px;
+}
 
 
 
@@ -676,7 +693,7 @@ body {
 
 
 .ohyer {
-    margin: 60px 10px 90px 0px;
+    margin: 60px 10px 130px 0px;
 }
 
 
