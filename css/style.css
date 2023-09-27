@@ -286,10 +286,10 @@ body {
 
 .utver {
 
-    margin: 60px 0px;
+    margin: 40px 0px ;
     border-top: 1px solid #DADADA;
-    padding: 60px 0px;
-
+      border-bottom: 1px solid #D0D0D0;
+   padding-bottom: 40px;
 
 }
 
@@ -297,7 +297,7 @@ body {
 
 .jover {
     border: 1px solid #E2E2E2;
-    margin: 0px 0px 30px;
+    margin: 0px 0px 40px;
 
 }
 
@@ -326,7 +326,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex: .5;
+    flex: 0.5;
+
 
 }
 
@@ -341,25 +342,58 @@ body {
 
 
 
-
-.uterb{
+.uterb {
     display: flex;
- 
+       border-bottom: 1px dotted #D0D0D0;
+    padding-bottom: 35px;
+    padding-top: 35px;
+
 }
 
 
 
 
-
-.djamilat{
-    width: 70px;
+.djamilat {
+    width: 80px;
     height: 70px;
 }
 
 
 
-.tober {
+.yuder {
+    margin-left: 24px;
 
+
+}
+
+
+.hubber {
+    font-size: 13px;
+    letter-spacing: 3px;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+
+.hubber:hover {
+   color: #5CBAAE;
+}
+
+
+
+.govst {
+    margin-top: 17px;
+    font-size: 11px;
+    letter-spacing: 3px;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 400;
+    color: #727889;
+}
+
+
+.tober {
     padding: 23px 22px 15px;
     font-family: Raleway, Helvetica, sans-serif;
     font-weight: 800;
@@ -369,15 +403,14 @@ body {
 }
 
 
-.tober:hover {
 
+.tober:hover {
     color: #5CBAAE;
 }
 
 
 
 .seding {
-
     padding: 0px 22px 23px;
     font-size: 11px;
     font-family: Raleway, Helvetica, sans-serif;
@@ -397,20 +430,20 @@ body {
 }
 
 
-
 .phone {
     flex: 3;
     margin-left: 50px;
-
-
-
 }
 
+
+
 .article {
-    margin-top: 60px;
+    margin-top: 40px;
     border: 1px solid #E2E2E2;
     background-color: white;
 }
+
+
 
 .article-header {
     display: flex;
@@ -427,8 +460,8 @@ body {
     border-bottom: 1px solid #E2E2E2;
     border-right: 1px solid #E2E2E2;
 
-
 }
+
 
 .block_min {
     flex: 1.5;
@@ -451,10 +484,9 @@ body {
 
 
 
+
 .havan:hover {
-
     color: #5CBAAE;
-
 }
 
 
@@ -468,9 +500,6 @@ body {
     letter-spacing: 4.3px;
     font-size: 13px;
 }
-
-
-
 
 
 
@@ -495,6 +524,8 @@ body {
 }
 
 
+
+
 .block_doe a:hover {
 
     color: #5CBAAE;
@@ -514,24 +545,19 @@ body {
 
 
 
-
 .treo {
-
-    width: 1084px;
-    padding: 49px 49px 50px;
-
-
+    width: 960px;
+   margin: 49px 70px 49px; 
 }
 
 
-.opci {
 
+.opci {
     font-size: 18px;
     padding: 0px 50px 0px;
     line-height: 35px;
     color: #626262;
     letter-spacing: 1px;
-
 }
 
 
@@ -539,15 +565,15 @@ body {
 .inpun_blocked {
     display: flex;
     margin: 40px 45px;
-
 }
 
 
 
 .inputchek {
     flex: 0.6;
-
 }
+
+
 
 .right-block {
     padding: 30px;
@@ -556,6 +582,7 @@ body {
     justify-content: flex-end;
 
 }
+
 
 .right-block p {
     margin-left: 15px;
@@ -666,7 +693,7 @@ body {
     position: relative;
     width: 400px;
     height: 168px;
-    
+
 }
 
 
@@ -712,58 +739,58 @@ body {
 
 
 
-.butan{
+.butan {
 
     margin-left: 16px;
     padding: 24px 35px;
     background-color: #F4F4F4;
-     border: 1px solid #DADADA;
-     letter-spacing: 4px;
-      font-family: "Raleway", Helvetica, sans-serif;
+    border: 1px solid #DADADA;
+    letter-spacing: 4px;
+    font-family: "Raleway", Helvetica, sans-serif;
     font-weight: 900;
     opacity: 0.8;
 }
 
 
 
-.butan:hover{
+.butan:hover {
 
     color: #5CBAAE;
-     border: 1px solid #5CBAAE;
+    border: 1px solid #5CBAAE;
 }
 
 
 
-.text_menu{
+.text_menu {
 
-    border-top: 1px solid #E2E2E2;  
+    border-top: 1px solid #E2E2E2;
 }
 
 
 
-.text_vlok{
+.text_vlok {
 
-   margin-top: 70px; 
-  
+    margin-top: 70px;
+
 }
 
 
-.giat{
+.giat {
     margin: 40px 60px;
     font-size: 12px;
-      font-family: "Raleway", Helvetica, sans-serif;
+    font-family: "Raleway", Helvetica, sans-serif;
     font-weight: 900;
     letter-spacing: 5px;
 }
 
 
 
-.golor{
+.golor {
 
     margin: -15px 60px 0px;
     height: 50px;
-    border-bottom: 1px dotted #E2E2E2;  
-       font-family: "Raleway", Helvetica, sans-serif;
+    border-bottom: 1px dotted #E2E2E2;
+    font-family: "Raleway", Helvetica, sans-serif;
     font-weight: 400;
     font-size: 11px;
     color: #969596;
@@ -779,24 +806,24 @@ body {
 }
 
 
-.golor:hover{
-     color: #5CBAAE;
-      cursor: pointer;
+.golor:hover {
+    color: #5CBAAE;
+    cursor: pointer;
 
 }
 
 
-.butron{
-   
-    margin: 50px 40px 0px 70px; 
+.butron {
+
+    margin: 50px 40px 0px 70px;
 }
 
-.nigol{
+.nigol {
 
-padding: 20px 140px; 
-background-color: #FFFFFF;
-border: 1px solid #E2E2E2; 
- font-family: "Raleway", Helvetica, sans-serif;
+    padding: 20px 140px;
+    background-color: #FFFFFF;
+    border: 1px solid #E2E2E2;
+    font-family: "Raleway", Helvetica, sans-serif;
     font-weight: 900;
     letter-spacing: 3px;
 }
@@ -804,6 +831,6 @@ border: 1px solid #E2E2E2;
 
 
 .nigol:hover {
-   color: #5CBAAE;
-   border: 1px solid  #5CBAAE;
+    color: #5CBAAE;
+    border: 1px solid #5CBAAE;
 }
