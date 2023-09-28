@@ -29,4 +29,3 @@ document.body.addEventListener("click", function(evt) {
     }
     input_block.classList.remove("input_closed");
 })
-

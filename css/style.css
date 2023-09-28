@@ -279,17 +279,17 @@ body {
 .nesq {
 
     color: #646464;
-    border-bottom: 1px dashed #646464;
+    border-bottom: 1px dotted #646464;
 
 
 }
 
 .utver {
 
-    margin: 40px 0px ;
+    margin: 40px 0px;
     border-top: 1px solid #DADADA;
-      border-bottom: 1px solid #D0D0D0;
-   padding-bottom: 40px;
+    border-bottom: 1px solid #D0D0D0;
+    padding-bottom: 40px;
 
 }
 
@@ -344,7 +344,7 @@ body {
 
 .uterb {
     display: flex;
-       border-bottom: 1px dotted #D0D0D0;
+    border-bottom: 1px dotted #D0D0D0;
     padding-bottom: 35px;
     padding-top: 35px;
 
@@ -378,7 +378,7 @@ body {
 
 
 .hubber:hover {
-   color: #5CBAAE;
+    color: #5CBAAE;
 }
 
 
@@ -391,6 +391,110 @@ body {
     font-weight: 400;
     color: #727889;
 }
+
+
+.ghab {
+
+    margin: 70px 0px 0px 0px;
+}
+
+
+
+.utod {
+    font-size: 15px;
+    letter-spacing: 3px;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 700;
+    color: #3C3B3B;
+}
+
+
+.tokker {
+
+    margin-top: 40px;
+}
+
+
+
+.bat_click {
+    padding: 18px 31px;
+    background-color: #F4F4F4;
+    border: 1px solid #DADADA;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #3C3B3B;
+    font-size: 11px;
+}
+
+
+
+.bat_click:hover {
+    color: #5CBAAE;
+    border: 1px solid #5CBAAE;
+}
+
+
+
+.icons_png {
+    margin-top: 60px;
+    border-top: 1px solid #DADADA;
+    padding-top: 60px;
+}
+
+
+
+.rettiwer {
+
+    font-size: 21px;
+    padding: 0px 16px 0px 0px;
+    color: #BDBEBD;
+    cursor: pointer;
+}
+
+
+.rettiwer:hover {
+    color: #5CBAAE;
+}
+
+
+.retext {
+    margin-top: 45px;
+}
+
+
+
+.govler {
+
+    font-size: 10px;
+    letter-spacing: 2.3px;
+    color: #BDBEBD;
+}
+
+
+.govler a {
+    color: #BDBEBD;
+    border-bottom: 1px dotted #BDBEBD;
+}
+
+
+.govler a:hover {
+
+    color: #5CBAAE;
+    border-bottom: none;
+}
+
+
+.gotro {
+
+    margin: 30px 0px 0px 0px;
+    font-size: 17px;
+    color: #646B6D;
+    font-family: 'Lato', sans-serif;
+    line-height: 30px;
+}
+
+
 
 
 .tober {
@@ -547,7 +651,7 @@ body {
 
 .treo {
     width: 960px;
-   margin: 49px 70px 49px; 
+    margin: 49px 70px 49px;
 }
 
 
