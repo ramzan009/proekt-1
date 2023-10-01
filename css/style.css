@@ -370,8 +370,9 @@ body {
 .hubber {
     font-size: 13px;
     letter-spacing: 3px;
+    line-height: 20px;
     font-family: "Raleway", Helvetica, sans-serif;
-    font-weight: 700;
+    font-weight: 800;
     cursor: pointer;
 }
 
@@ -704,12 +705,17 @@ body {
 .right-block p:hover {
 
     color: #5CBAAE;
+    border-bottom: none; 
 }
 
 
 
 .border_text {
     border-left: none !important;
+    cursor: pointer;
+    border-bottom: 1px dotted #C1C1C1;
+    text-align: left;
+    padding: 0px !important; 
 
 
 }
@@ -719,6 +725,7 @@ body {
 .love_png {
     width: 13px;
     margin-right: 7px;
+    
 }
 
 
